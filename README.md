@@ -19,6 +19,7 @@
 - Destructuring assignment (ES6 )
 - Padrao de projeto: Models & Controllers
 - Querystring para filtro
+- Uso de ORM(Sequelize)
 
 ## Rotas
 
